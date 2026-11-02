@@ -1,0 +1,290 @@
+{
+	"services": [
+		{
+			"slug": "wedding",
+			"number": "01",
+			"title": "Wedding Photography",
+			"category": "Wedding photography",
+			"subtitle": "Your day. Your people. Your story.",
+			"heroTitle": "The art of forever.",
+			"shortDescription": "Your wedding day is a collection of fleeting moments, quiet emotions, and people who mean everything. Preserve the feeling of your celebration through timeless photographs.",
+			"description": "A wedding is not just a celebration. It is a collection of fleeting moments, quiet emotions, and people who mean everything. My approach combines honest storytelling with an editorial eye, preserving the feeling of your day in photographs you will return to for years to come.",
+			"philosophy": "The most meaningful photographs are rarely the ones you plan. They happen in the glance across the room, the hand held a little tighter, and the laughter that arrives when nobody is watching.",
+			"heroImage": "https://images.unsplash.com/photo-1519741497674-611481863552?w=2000&q=90",
+			"heroAlt": "An elegant wedding celebration captured in natural light",
+			"introImage": "https://images.unsplash.com/photo-1511285560929-80b456fea0bc?w=1200&q=85",
+			"introAlt": "A couple sharing an intimate wedding moment",
+			"icon": "Heart",
+			"idealFor": "Couples who value genuine emotion, meaningful details, and timeless imagery.",
+			"duration": "Half-day or full-day coverage",
+			"features": [
+				"Pre-wedding consultation",
+				"Full-day wedding coverage",
+				"Candid wedding-day photography",
+				"Editorial couple portraits",
+				"Professionally edited photographs",
+				"Private online gallery",
+				"High-resolution digital delivery"
+			],
+			"gallery": [
+				{
+					"src": "https://images.unsplash.com/photo-1537633552985-df8429e8048b?w=1200&q=85",
+					"alt": "A couple celebrating their wedding"
+				},
+				{
+					"src": "https://images.unsplash.com/photo-1465495976277-4387d4b0e4a6?w=1200&q=85",
+					"alt": "An intimate wedding detail"
+				},
+				{
+					"src": "https://images.unsplash.com/photo-1519225421980-715cb0215aed?w=1200&q=85",
+					"alt": "An elegant wedding setting"
+				}
+			],
+			"process": [
+				{
+					"title": "Getting to know you",
+					"description": "We talk about your relationship, your plans, and the moments that matter most to you."
+				},
+				{
+					"title": "Planning your day",
+					"description": "Together, we discuss the timeline, locations, lighting, and important details."
+				},
+				{
+					"title": "Being present",
+					"description": "You enjoy your celebration while I document the genuine moments as they unfold."
+				},
+				{
+					"title": "Your photographs",
+					"description": "Your images are carefully selected, edited, and delivered in a private gallery."
+				}
+			],
+			"relatedProject": {
+				"slug": "the-art-of-together",
+				"title": "The Art of Together",
+				"image": "https://images.unsplash.com/photo-1537633552985-df8429e8048b?w=1200&q=85",
+				"imageAlt": "A wedding story captured through natural moments",
+				"description": "A visual story shaped by genuine emotion, intimate moments, and timeless imagery."
+			}
+		},
+		{
+			"slug": "portrait",
+			"number": "02",
+			"title": "Portrait Photography",
+			"category": "Portrait photography",
+			"subtitle": "An honest expression of you.",
+			"heroTitle": "Your story, in focus.",
+			"shortDescription": "Thoughtful portraits that celebrate individuality through natural light, meaningful composition, and an effortless photographic experience.",
+			"description": "Portrait photography is an opportunity to see yourself from a different perspective. Through natural light, thoughtful composition, and gentle direction, I create images that feel personal rather than posed — photographs that reflect who you are, not simply how you look.",
+			"philosophy": "You don't need to know how to pose or perform in front of a camera. The best portraits begin with a comfortable atmosphere, a little patience, and the freedom to be yourself.",
+			"heroImage": "https://images.unsplash.com/photo-1534528741775-53994a69daeb?w=2000&q=90",
+			"heroAlt": "An expressive portrait photographed in soft natural light",
+			"introImage": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=1200&q=85",
+			"introAlt": "A natural and expressive personal portrait",
+			"icon": "Camera",
+			"idealFor": "Individuals, creatives, professionals, and people building a personal brand.",
+			"duration": "A relaxed individual session",
+			"features": [
+				"Personal creative consultation",
+				"Location and styling guidance",
+				"Guided portrait session",
+				"Natural posing direction",
+				"Carefully retouched photographs",
+				"Private digital gallery",
+				"High-resolution image delivery"
+			],
+			"gallery": [
+				{
+					"src": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?w=1200&q=85",
+					"alt": "A thoughtful individual portrait"
+				},
+				{
+					"src": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=1200&q=85",
+					"alt": "A softly lit portrait"
+				},
+				{
+					"src": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?w=1200&q=85",
+					"alt": "A contemporary portrait"
+				}
+			],
+			"process": [
+				{
+					"title": "Understanding your vision",
+					"description": "We discuss the mood, personality, and purpose you want your portraits to communicate."
+				},
+				{
+					"title": "Finding your style",
+					"description": "We plan the location, wardrobe, lighting, and visual direction around you."
+				},
+				{
+					"title": "The portrait session",
+					"description": "With simple guidance and a relaxed pace, we create space for natural expressions."
+				},
+				{
+					"title": "The final selection",
+					"description": "Your strongest images are refined and delivered through a private online gallery."
+				}
+			],
+			"relatedProject": {
+				"slug": "in-her-own-light",
+				"title": "In Her Own Light",
+				"image": "https://images.unsplash.com/photo-1524504388940-b1c1722653e1?w=1200&q=85",
+				"imageAlt": "A personal portrait captured in natural light",
+				"description": "A portrait story exploring personality, confidence, and the beauty of individuality."
+			}
+		},
+		{
+			"slug": "editorial",
+			"number": "03",
+			"title": "Editorial Photography",
+			"category": "Editorial photography",
+			"subtitle": "Imagery with a point of view.",
+			"heroTitle": "A vision, made visible.",
+			"shortDescription": "Distinctive visual storytelling for fashion, creative campaigns, and brands that want their imagery to communicate more than a product.",
+			"description": "Editorial photography brings ideas to life through visual storytelling. From fashion concepts to creative campaigns, every frame is shaped by composition, atmosphere, and intention. The result is imagery with a distinctive visual identity and a story worth exploring.",
+			"philosophy": "Great editorial imagery does more than show a product or a person. It creates a feeling, communicates an idea, and invites the viewer into a carefully imagined world.",
+			"heroImage": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=2000&q=90",
+			"heroAlt": "A fashion editorial portrait with a distinctive visual style",
+			"introImage": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=1200&q=85",
+			"introAlt": "A fashion editorial photographed with artistic direction",
+			"icon": "Sparkles",
+			"idealFor": "Fashion labels, independent designers, creative campaigns, and emerging brands.",
+			"duration": "Planned according to the creative brief",
+			"features": [
+				"Creative consultation and briefing",
+				"Concept development",
+				"Moodboard and visual direction",
+				"Shoot planning and coordination",
+				"Editorial photography session",
+				"Professional image editing",
+				"High-resolution final delivery"
+			],
+			"gallery": [
+				{
+					"src": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=1200&q=85",
+					"alt": "An editorial fashion composition"
+				},
+				{
+					"src": "https://images.unsplash.com/photo-1539109136881-3be0616acf4b?w=1200&q=85",
+					"alt": "A fashion portrait with expressive styling"
+				},
+				{
+					"src": "https://images.unsplash.com/photo-1483985988355-763728e1935b?w=1200&q=85",
+					"alt": "A contemporary fashion story"
+				}
+			],
+			"process": [
+				{
+					"title": "The creative brief",
+					"description": "We define the audience, objectives, references, and message behind your project."
+				},
+				{
+					"title": "Building the concept",
+					"description": "We shape the moodboard, visual direction, styling, and photography plan."
+				},
+				{
+					"title": "Production day",
+					"description": "The concept takes shape through deliberate composition, light, and creative collaboration."
+				},
+				{
+					"title": "Final image collection",
+					"description": "The selected images are refined and prepared according to the agreed project requirements."
+				}
+			],
+			"relatedProject": {
+				"slug": "the-quiet-elegance",
+				"title": "The Quiet Elegance",
+				"image": "https://images.unsplash.com/photo-1529139574466-a303027c1d8b?w=1200&q=85",
+				"imageAlt": "An editorial fashion story",
+				"description": "A considered editorial collection built around styling, composition, and visual identity."
+			}
+		},
+		{
+			"slug": "lifestyle",
+			"number": "04",
+			"title": "Lifestyle Photography",
+			"category": "Lifestyle photography",
+			"subtitle": "The beauty of being present.",
+			"heroTitle": "Life, as it unfolds.",
+			"shortDescription": "Authentic photographs of people, places, and everyday experiences — captured with an observant eye and a natural approach.",
+			"description": "Everyday life has its own quiet beauty. Lifestyle photography documents the interactions, environments, and experiences that make ordinary moments meaningful. The approach is natural and observant, creating photographs that feel lived-in, personal, and full of atmosphere.",
+			"philosophy": "Not every meaningful moment announces itself. Sometimes it is the light entering a room, the familiar rhythm of a morning, or the people who make a place feel like home.",
+			"heroImage": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=2000&q=90",
+			"heroAlt": "Warm sunlight falling across a beautiful natural landscape",
+			"introImage": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=1200&q=85",
+			"introAlt": "A peaceful landscape captured in natural light",
+			"icon": "Sun",
+			"idealFor": "Families, couples, travel stories, everyday experiences, and lifestyle brands.",
+			"duration": "Planned around your story and location",
+			"features": [
+				"Initial consultation",
+				"Location and session planning",
+				"Natural documentary-style coverage",
+				"Thoughtful composition and lighting",
+				"Artistic color grading",
+				"Private online gallery",
+				"High-resolution digital delivery"
+			],
+			"gallery": [
+				{
+					"src": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=1200&q=85",
+					"alt": "A tranquil natural landscape"
+				},
+				{
+					"src": "https://images.unsplash.com/photo-1470252649378-9c29740c9fa8?w=1200&q=85",
+					"alt": "Golden light across an open landscape"
+				},
+				{
+					"src": "https://images.unsplash.com/photo-1500530855697-b586d89ba3ee?w=1200&q=85",
+					"alt": "A scenic outdoor environment"
+				}
+			],
+			"process": [
+				{
+					"title": "Your everyday story",
+					"description": "We talk about the people, places, and experiences you want to preserve."
+				},
+				{
+					"title": "Choosing the setting",
+					"description": "We select a location and timing that support the natural atmosphere of your story."
+				},
+				{
+					"title": "Letting moments happen",
+					"description": "Rather than over-directing, I observe and photograph the interactions that unfold."
+				},
+				{
+					"title": "A collection to keep",
+					"description": "Your images are curated and edited into a cohesive collection you can revisit."
+				}
+			],
+			"relatedProject": {
+				"slug": "between-earth-and-sky",
+				"title": "Between Earth and Sky",
+				"image": "https://images.unsplash.com/photo-1470770841072-f978cf4d019e?w=1200&q=85",
+				"imageAlt": "A scenic landscape captured in natural light",
+				"description": "A visual exploration of natural light, quiet places, and the beauty of the world around us."
+			}
+		}
+	],
+	"processOverview": [
+		{
+			"number": "01",
+			"title": "The conversation",
+			"description": "We begin with a conversation about your ideas, expectations, and the story you want to tell."
+		},
+		{
+			"number": "02",
+			"title": "Thoughtful planning",
+			"description": "Together, we shape the creative direction, location, timing, and details of your session."
+		},
+		{
+			"number": "03",
+			"title": "The experience",
+			"description": "On the day, you can simply be present. I'll take care of capturing the moments as they unfold."
+		},
+		{
+			"number": "04",
+			"title": "Your collection",
+			"description": "Your photographs are carefully selected, edited, and delivered through a private online gallery."
+		}
+	]
+}
