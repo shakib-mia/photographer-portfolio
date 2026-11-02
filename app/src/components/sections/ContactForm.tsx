@@ -173,7 +173,6 @@ export default function ContactForm({
 						id="date"
 						name="date"
 						type="date"
-						min={new Date().toLocaleDateString("en-CA")}
 						className={inputClassName}
 					/>
 				</div>

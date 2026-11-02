@@ -1,9 +1,8 @@
-"use client";
-
 import Link from "next/link";
-import { ArrowUpRight, ArrowUp, Mail } from "lucide-react";
+import { ArrowUpRight, Mail } from "lucide-react";
 
 import { FaInstagram, FaFacebookF, FaLinkedinIn } from "react-icons/fa";
+import BackToTop from "./BackToTop";
 
 const navigation = [
 	{ label: "Home", href: "/" },
@@ -39,8 +38,7 @@ const socials = [
 ];
 
 export default function Footer() {
-	const currentYear = new Date().getFullYear();
-
+	const currentYear = 2026;
 	return (
 		<footer className="bg-[#24231f] px-5 text-[#f7f5f0] sm:px-8 lg:px-14">
 			<div className="mx-auto max-w-[1600px]">
@@ -178,19 +176,7 @@ export default function Footer() {
 							Made with intention & creativity
 						</p>
 
-						<button
-							type="button"
-							onClick={() =>
-								window.scrollTo({
-									top: 0,
-									behavior: "smooth",
-								})
-							}
-							aria-label="Back to top"
-							className="flex size-10 shrink-0 items-center justify-center rounded-full border border-white/20 text-white/70 transition-all duration-300 hover:border-[#a58b68] hover:bg-[#a58b68] hover:text-white"
-						>
-							<ArrowUp size={16} />
-						</button>
+						<BackToTop />
 					</div>
 				</div>
 			</div>
