@@ -1,5 +1,3 @@
-import Footer from "./src/components/layout/Footer";
-import Navbar from "./src/components/layout/Navbar";
 import AboutPreview from "./src/components/sections/AboutPreview";
 import ContactCTA from "./src/components/sections/ContactCTA";
 import FeaturedWorks from "./src/components/sections/FeaturedWorks";
