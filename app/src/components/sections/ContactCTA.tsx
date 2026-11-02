@@ -35,7 +35,7 @@ export default function ContactCTA() {
 						</span>
 					</h2>
 
-					<p className="mx-auto mt-9 max-w-107.5 text-[12px] leading-loose text-[#77746d] sm:text-[13px]">
+					<p className="mx-auto mt-9 max-w-107.5 leading-loose text-[#77746d] sm:text-[13px]">
 						Whether you are planning a celebration, dreaming of a
 						portrait session, or have a creative project in mind, I
 						would love to hear about it.

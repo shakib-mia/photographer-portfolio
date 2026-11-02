@@ -59,7 +59,7 @@ export default function Navbar() {
 						<Link
 							key={link.href}
 							href={link.href}
-							className="group relative py-2 text-[12px] tracking-[0.04em] text-[#68655f] transition-colors duration-300 hover:text-[#24231f]"
+							className="group relative py-2 tracking-[0.04em] text-[#68655f] transition-colors duration-300 hover:text-[#24231f]"
 						>
 							{link.label}
 

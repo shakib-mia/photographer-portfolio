@@ -86,7 +86,7 @@ export default function Testimonials() {
 								</span>
 							</h2>
 
-							<p className="mt-7 max-w-72.5 text-[12px] leading-loose text-white/50">
+							<p className="mt-7 max-w-72.5 leading-loose text-white/50">
 								The most meaningful part of this journey is
 								knowing that the photographs become a part of
 								someone&apos;s life and memories.

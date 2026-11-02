@@ -148,7 +148,7 @@ export default function PortfolioPage() {
 								</h1>
 
 								<div className="max-w-[320px] lg:pb-3">
-									<p className="text-[12px] leading-loose text-[#77746d]">
+									<p className=" leading-loose text-[#77746d]">
 										A curated collection of moments,
 										emotions, and stories captured through
 										my lens. Each frame holds a memory worth
@@ -328,7 +328,7 @@ export default function PortfolioPage() {
 							</span>
 						</h2>
 
-						<p className="mx-auto mt-8 max-w-100 text-[12px] leading-loose text-[#77746d]">
+						<p className="mx-auto mt-8 max-w-100 leading-loose text-[#77746d]">
 							Have a story worth capturing? I would love to hear
 							about it and bring your vision to life.
 						</p>

@@ -165,7 +165,7 @@ export default function ServicesPreview() {
 										/>
 									</div>
 
-									<p className="mt-4 max-w-107.5 text-[12px] leading-[1.9] text-[#77746d]">
+									<p className="mt-4 max-w-107.5 leading-[1.9] text-[#77746d]">
 										{service.description}
 									</p>
 								</div>

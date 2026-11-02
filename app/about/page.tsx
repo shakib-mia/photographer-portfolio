@@ -63,7 +63,7 @@ export default function AboutPage() {
 									</span>
 								</h1>
 
-								<p className="max-w-[320px] text-[12px] leading-loose text-[#77746d] lg:pb-3">
+								<p className="max-w-[320px] leading-loose text-[#77746d] lg:pb-3">
 									A little about the perspective, passion, and
 									creative philosophy behind every photograph.
 								</p>
@@ -229,7 +229,7 @@ export default function AboutPage() {
 								</span>
 							</h2>
 
-							<p className="mx-auto mt-7 max-w-112.5 text-[12px] leading-loose text-[#77746d]">
+							<p className="mx-auto mt-7 max-w-112.5 leading-loose text-[#77746d]">
 								Great photography is not just about the perfect
 								frame. It is about the intention, connection,
 								and emotion behind it.
@@ -273,7 +273,7 @@ export default function AboutPage() {
 											{item.title}
 										</h3>
 
-										<p className="mt-4 max-w-87.5 text-[12px] leading-loose text-[#77746d]">
+										<p className="mt-4 max-w-87.5 leading-loose text-[#77746d]">
 											{item.description}
 										</p>
 									</motion.div>
@@ -329,7 +329,7 @@ export default function AboutPage() {
 								</span>
 							</h2>
 
-							<p className="mt-9 max-w-115 text-[12px] leading-loose text-white/50">
+							<p className="mt-9 max-w-115 leading-loose text-white/50">
 								From the first conversation to the final
 								photograph, every step is guided by care and
 								creative intention. I value collaboration,
@@ -371,7 +371,7 @@ export default function AboutPage() {
 							</span>
 						</h2>
 
-						<p className="mx-auto mt-8 max-w-100 text-[12px] leading-loose text-[#77746d]">
+						<p className="mx-auto mt-8 max-w-100 leading-loose text-[#77746d]">
 							Have an idea, a special occasion, or simply want to
 							create something beautiful? {"Let's"} talk.
 						</p>

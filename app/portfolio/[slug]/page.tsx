@@ -245,7 +245,7 @@ export default async function ProjectDetailPage({
 								</h1>
 							</div>
 
-							<p className="max-w-87.5 text-[12px] leading-loose text-[#77746d] lg:pb-2">
+							<p className="max-w-87.5 leading-loose text-[#77746d] lg:pb-2">
 								{project.description}
 							</p>
 						</div>
@@ -315,7 +315,7 @@ export default async function ProjectDetailPage({
 								{project.introduction}
 							</h2>
 
-							<p className="mt-8 max-w-175 text-[12px] leading-[2.2] text-[#77746d]">
+							<p className="mt-8 max-w-175 leading-[2.2] text-[#77746d]">
 								{project.story}
 							</p>
 
@@ -324,7 +324,7 @@ export default async function ProjectDetailPage({
 									The creative approach
 								</p>
 
-								<p className="mt-5 max-w-175 text-[12px] leading-[2.2] text-[#77746d]">
+								<p className="mt-5 max-w-175 leading-[2.2] text-[#77746d]">
 									{project.approach}
 								</p>
 							</div>
@@ -472,7 +472,7 @@ export default async function ProjectDetailPage({
 							</span>
 						</h2>
 
-						<p className="mx-auto mt-8 max-w-100 text-[12px] leading-loose text-white/50">
+						<p className="mx-auto mt-8 max-w-100 leading-loose text-white/50">
 							Every great photograph begins with a conversation.
 							Tell me what you have in mind.
 						</p>

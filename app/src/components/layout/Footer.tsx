@@ -64,7 +64,7 @@ export default function Footer() {
 							</span>
 						</Link>
 
-						<p className="mt-7 text-[12px] leading-loose text-white/45">
+						<p className="mt-7 leading-loose text-white/45">
 							Creating timeless visual stories through light,
 							emotion, and thoughtful artistic expression.
 						</p>
@@ -100,7 +100,7 @@ export default function Footer() {
 								<li key={item.label}>
 									<Link
 										href={item.href}
-										className="group inline-flex items-center gap-2 text-[12px] text-white/55 transition-colors duration-300 hover:text-white"
+										className="group inline-flex items-center gap-2 text-white/55 transition-colors duration-300 hover:text-white"
 									>
 										{item.label}
 										<ArrowUpRight
@@ -124,7 +124,7 @@ export default function Footer() {
 								<li key={service.label}>
 									<Link
 										href={service.href}
-										className="text-[12px] text-white/55 transition-colors duration-300 hover:text-white"
+										className=" text-white/55 transition-colors duration-300 hover:text-white"
 									>
 										{service.label}
 									</Link>
@@ -139,7 +139,7 @@ export default function Footer() {
 							Get in touch
 						</h3>
 
-						<p className="max-w-58.75 text-[12px] leading-loose text-white/45">
+						<p className="max-w-58.75 leading-loose text-white/45">
 							Have a story in mind? {"Let's"} create something
 							meaningful together.
 						</p>
