@@ -43,7 +43,7 @@ export default function ContactCTA() {
 
 					<Link
 						href="/contact"
-						className="group mx-auto mt-10 inline-flex min-h-14 items-center gap-7 bg-[#24231f] px-8 text-[10px] font-medium uppercase tracking-[0.16em] text-white transition-colors duration-300 hover:bg-[#a58b68]"
+						className="group mx-auto mt-10 inline-flex min-h-14 items-center gap-7 bg-[#24231f] px-8 text-[10px] font-medium uppercase tracking-[0.16em] text-white! transition-colors duration-300 hover:bg-[#a58b68]"
 					>
 						Start a conversation
 						<ArrowUpRight
