@@ -61,22 +61,32 @@ export default function Hero() {
 	const textY = useTransform(
 		scrollYProgress,
 		[0, 1],
-		shouldReduceMotion ? [0, 0] : [0, -140],
+		shouldReduceMotion ? [0, 0] : [0, -280],
+	);
+	const textOpacity = useTransform(
+		scrollYProgress,
+		[0, 0.75],
+		shouldReduceMotion ? [1, 1] : [1, 0],
 	);
 	const frameY = useTransform(
 		scrollYProgress,
 		[0, 1],
-		shouldReduceMotion ? [0, 0] : [0, -60],
+		shouldReduceMotion ? [0, 0] : [0, -120],
 	);
 	const imageY = useTransform(
 		scrollYProgress,
 		[0, 1],
-		shouldReduceMotion ? ["0%", "0%"] : ["-8%", "8%"],
+		shouldReduceMotion ? ["0%", "0%"] : ["-12%", "12%"],
+	);
+	const imageScale = useTransform(
+		scrollYProgress,
+		[0, 1],
+		shouldReduceMotion ? [1, 1] : [1, 1.15],
 	);
 	const verticalLabelY = useTransform(
 		scrollYProgress,
 		[0, 1],
-		shouldReduceMotion ? [0, 0] : [0, -100],
+		shouldReduceMotion ? [0, 0] : [0, -220],
 	);
 	const cueOpacity = useTransform(scrollYProgress, [0, 0.15], [1, 0]);
 
@@ -112,7 +122,7 @@ export default function Hero() {
 				<motion.div
 					initial="hidden"
 					animate="visible"
-					style={{ y: textY }}
+					style={{ y: textY, opacity: textOpacity }}
 					transition={{
 						staggerChildren: shouldReduceMotion ? 0 : 0.13,
 						delayChildren: 0.15,
@@ -243,8 +253,8 @@ export default function Hero() {
 					<div className="relative aspect-4/5 max-h-190 overflow-hidden bg-[#e8e2d8] sm:aspect-5/4 lg:aspect-4/5">
 						{/* Parallax layer: taller than the frame so edges never show */}
 						<motion.div
-							style={{ y: imageY }}
-							className="absolute inset-x-0 -inset-y-[12%]"
+							style={{ y: imageY, scale: imageScale }}
+							className="absolute inset-x-0 inset-y-[-18%]"
 						>
 							{/* Slider images */}
 							{heroImages.map((image, index) => (
